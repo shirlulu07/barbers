@@ -1,13 +1,13 @@
 import React from 'react';
-import AboutUs from './component/AboutUs';
-import Header from './component/Header';
-import Services from './component/Services';
-import Testimonial from './component/Testimonial';
-import Team from './component/Team';
-import Beard from './component/Beard';
-import Contact from './component/Contact';
-import Map from './component/Map';
-import Footer from './component/Footer';
+import AboutUs from './page/AboutUs';
+import Header from './page/Header';
+import Services from './page/Services';
+import Testimonial from './page/Testimonial';
+import Team from './page/Team';
+import Beard from './page/Beard';
+import Contact from './page/Contact';
+import Map from './page/Map';
+import Footer from './page/Footer';
 
 function App() {
   return (
