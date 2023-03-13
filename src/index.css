@@ -23,3 +23,9 @@ p {
 .hover:hover {
     color: gold;
 }
+
+.poppins {
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-family: 'Poppins', sans-serif;
+}
